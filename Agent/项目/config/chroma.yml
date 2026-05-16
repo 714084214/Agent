@@ -1,0 +1,4 @@
+# Chroma向量数据库配置
+persist_directory: data/chroma
+collection_name: documents
+embedding_model: text2vec
